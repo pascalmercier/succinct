@@ -4,4 +4,5 @@
 	"homepage": "https://github.com/micjamking/succinct",
 	"description": "A tiny jQuery plugin for truncating multiple lines of text",
 	"main": "jQuery.succinct.min.js"
+	"ignore": [ "jQuery.succinct.js", "README.md", "LICENSE" ]
 }
